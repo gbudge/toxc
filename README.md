@@ -1,6 +1,7 @@
 # toxc
 
 <div align="center">
+<img src="https://img.shields.io/badge/📦_Project_Status-Unmaintained-critical?style=for-the-badge&logo=github&logoColor=white"/><br />
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Bash](https://img.shields.io/badge/shell-bash-green.svg)](https://www.gnu.org/software/bash/)
